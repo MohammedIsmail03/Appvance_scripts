@@ -64,7 +64,7 @@
         <accessor type='JQuery' value='byJQuery(&apos;img[alt="Apache Baseball Jersey"]&apos;)' selected='false' fallback='true'></accessor>
       </dialect>
     </step>
-    <step action='setValue' value='"4"' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='4f755e1f-33e1-441f-9635-f4abadfd6b6d' uiType='base'>
+    <step action='setValue' value='"3"' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='4f755e1f-33e1-441f-9635-f4abadfd6b6d' uiType='base'>
       <dialect type='sahi'>
         <accessor type='XPathId' value='byXPath(&apos;//*[@id="quantity"]&apos;)' selected='true' fallback='true'></accessor>
         <accessor type='AttrClass' value='numberbox("form-control title")' selected='false' fallback='true'></accessor>
